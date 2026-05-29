@@ -118,7 +118,7 @@ export function Footer() {
         {/* Google Maps */}
         <div className="mt-12 rounded-xl overflow-hidden">
           <iframe
-            src="https://www.google.com/maps/place/Pos+service/@-7.2628496,110.4504114,17z/data=!4m14!1m7!3m6!1s0x2e7083139543815b:0xb11d1b5ad3813e9b!2sPos+service!8m2!3d-7.2628496!4d110.4529863!16s%2Fg%2F11fjzvh6yw!3m5!1s0x2e7083139543815b:0xb11d1b5ad3813e9b!8m2!3d-7.2628496!4d110.4529863!16s%2Fg%2F11fjzvh6yw?entry=ttu&g_ep=EgoyMDI2MDUyNi4wIKXMDSoASAFQAw%3D%3D"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.806501325215!2d110.45041137678571!3d-7.26284959274398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7083139543815b%3A0xb11d1b5ad3813e9b!2sPos%20service!5e0!3m2!1sen!2sid!4v1780037028502!5m2!1sen!2sid"
             width="100%"
             height="300"
             style={{ border: 0 }}
