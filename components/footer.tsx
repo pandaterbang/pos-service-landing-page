@@ -14,7 +14,7 @@ export function Footer() {
               <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
                 <Smartphone className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">POS Service</span>
+              <span className="text-xl font-bold">POS Service Cikal</span>
             </Link>
             <p className="text-background/60 text-sm leading-relaxed mb-6 max-w-md">
               Toko HP second terpercaya dengan berbagai pilihan iPhone, Samsung, Oppo, Vivo, Xiaomi dan merek lainnya. Unit berkualitas, garansi toko, harga kompetitif.
@@ -45,22 +45,22 @@ export function Footer() {
             <ul className="space-y-3">
               <li>
                 <Link
-                  href="https://wa.me/6281234567890"
+                  href="https://wa.me/6289659757002"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 text-sm text-background/60 hover:text-primary transition-colors"
                 >
                   <Phone className="w-4 h-4" />
-                  +62 812-3456-7890
+                  +62 896-5975-7002
                 </Link>
               </li>
               <li>
                 <div className="flex items-start gap-3 text-sm text-background/60">
                   <MapPin className="w-4 h-4 mt-0.5 shrink-0" />
                   <span>
-                    Jl. Contoh Alamat No. 123
+                    Jl. Fatmawati Cikal Tuntang
                     <br />
-                    Kota, Provinsi 12345
+                    Kab. Semarang, Provinsi Jawa Tengah 50773
                   </span>
                 </div>
               </li>
@@ -118,7 +118,7 @@ export function Footer() {
         {/* Google Maps */}
         <div className="mt-12 rounded-xl overflow-hidden">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.521260322283!2d106.82240341476908!3d-6.194741395493371!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f5d2e764b12d%3A0x3d2ad6e1e0e9bcc8!2sMonumen%20Nasional!5e0!3m2!1sen!2sid!4v1635134422096!5m2!1sen!2sid"
+            src="https://www.google.com/maps/place/Pos+service/@-7.2628496,110.4504114,17z/data=!4m14!1m7!3m6!1s0x2e7083139543815b:0xb11d1b5ad3813e9b!2sPos+service!8m2!3d-7.2628496!4d110.4529863!16s%2Fg%2F11fjzvh6yw!3m5!1s0x2e7083139543815b:0xb11d1b5ad3813e9b!8m2!3d-7.2628496!4d110.4529863!16s%2Fg%2F11fjzvh6yw?entry=ttu&g_ep=EgoyMDI2MDUyNi4wIKXMDSoASAFQAw%3D%3D"
             width="100%"
             height="300"
             style={{ border: 0 }}
